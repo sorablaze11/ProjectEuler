@@ -1,2 +1,2 @@
 # ProjectEuler
-Some of my codes for ProjectEuler in cpp.
+Some of my codes for ProjectEuler written in cpp.
